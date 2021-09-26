@@ -6,6 +6,7 @@ e Node.js com as bibliotecas Express e mongoose para o backend.
 ## Requisitos
 
 Node.js: recomendado uma versão atual.
+Em maquinas rodando com windows pode ser necessario reinicializar apos a instalação do Node.js.
 
 ### Modo de uso
 
