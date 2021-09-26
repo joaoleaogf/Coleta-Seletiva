@@ -5,7 +5,7 @@ e Node.js com as bibliotecas Express e mongoose para o backend.
 
 ## Requisitos
 
-Node.js: recomnedado uma versão atual.
+Node.js: recomendado uma versão atual.
 
 ### Modo de uso
 
