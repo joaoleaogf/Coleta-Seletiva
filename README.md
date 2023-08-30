@@ -1,43 +1,55 @@
-# Coleta-seletiva
+# Coleta Seletiva - Sistema de Gerenciamento em Nuvem
 
-Sistema de gerenciamento em nuvem de pontos para coleta seletiva desenvolvido em Nuxt.js, um microframework de Vue.js para o frontend
-e Node.js com as bibliotecas Express e mongoose para o backend.
+O Coleta Seletiva é um sistema de gerenciamento baseado em nuvem para pontos de coleta seletiva. Ele foi desenvolvido utilizando Nuxt.js, um microframework do Vue.js para a parte frontal (frontend), e Node.js com as bibliotecas Express e Mongoose para o backend.
 
 ## Requisitos
 
-Node.js: recomendado uma versão atual.
-Em maquinas rodando com windows pode ser necessario reinicializar apos a instalação do Node.js.
+- Node.js: É recomendado utilizar a versão mais atualizada do Node.js.
+- No caso de máquinas com sistema operacional Windows, pode ser necessário reiniciar após a instalação do Node.js.
 
-### Modo de uso
+### Instruções de Uso
 
--Passo 1:
+#### Passo 1:
 
-Abra um terminal em sua maquina e se dirija para o diretorio da pasta Coleta seletiva / backend 
-e digite o seguinte comando e de enter:
+1. Abra um terminal em seu computador.
+2. Navegue até o diretório da pasta "Coleta Seletiva / Backend".
+3. Digite o seguinte comando e pressione Enter:
 
 npm install
-exemplo: userexemple:~/Documents/Coleta seletiva/backend$ npm install
 
-seuido por:
+Exemplo:
+~/Documents/Coleta Seletiva/Backend$ npm install
+
+4. Em seguida, execute o comando:
 
 node app.js
-exemplo: userexemple:~/Documents/Coleta seletiva/backend$ node app.js
 
--Passo 2:
+Exemplo:
+~/Documents/Coleta Seletiva/Backend$ node app.js
 
-Abra um terminal em sua maquina e se dirija para o diretorio da pasta Coleta seletiva / frontend 
-e digite o seguinte comando e de enter:
+#### Passo 2:
+
+1. Abra outro terminal em seu computador.
+2. Navegue até o diretório da pasta "Coleta Seletiva / Frontend".
+3. Digite o seguinte comando e pressione Enter:
 
 npm install
-exemplo: userexemple:~/Documents/Coleta seletiva/frontend$ npm install
 
-seuido por:
+Exemplo:
+~/Documents/Coleta Seletiva/Frontend$ npm install
+
+4. Após a instalação, execute o comando:
 
 npm run dev
-exemplo: userexemple:~/Documents/Coleta seletiva/frontend$ npm run dev
 
--Passo 3:
+Exemplo:
+~/Documents/Coleta Seletiva/Frontend$ npm run dev
 
-Abra uma guia em seu navegador e digite:
+#### Passo 3:
+
+1. Abra um navegador da web.
+2. Digite o seguinte endereço na barra de endereços:
+
 http://localhost:3000/
 
+Isso abrirá a interface do Coleta Seletiva em seu navegador, permitindo que vo
